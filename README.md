@@ -1,5 +1,12 @@
-## Hi there 👋
+ 
+Welcome to My GitHub Portfolio! 👋
 
+
+I am Bhavishya Malla, currently a senior at Penn State University, majoring in computer science whilst minoring in statistics. 
+
+I'm currently working on a sentiment analysis project that will measure the impact of the election of 2024 on different sectors in America that would be utilized to extrapolate predictive insights about future political events. 
+
+Feel free to reach me at bmdllu33@gmail.com.
 <!--
 **bmalla21/bmalla21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
